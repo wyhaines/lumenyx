@@ -1,0 +1,13 @@
+name: lumenyx
+version: 0.1.0
+
+authors:
+  - Kirk Haines <wyhaines@gmail.com>
+
+targets:
+  lumenyx:
+    main: src/lumenyx.cr
+
+crystal: '>= 1.15.1'
+
+license: MIT
